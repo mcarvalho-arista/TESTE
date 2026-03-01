@@ -1,2 +1,6 @@
 #texto v1
 ssss
+<<<<<<< HEAD
+=======
+dddd
+>>>>>>> 133b795 (test)
